@@ -6,12 +6,13 @@
   background-color:#212529;
   height: 65px;
   width: 100%;
-  margin-top: 0px; 
+  margin-top: 0px;
+  box-sizing: border-box; 
 }
 .page-navigation255 li {
   float: left;
   width: 150px;
-  margin-left: 85px;
+  margin-left: 110px;
       background-color: #212529;
       margin-top: 2px;
 }
@@ -31,6 +32,7 @@
   font-weight: bold;
   font-family: "segoe ui";
   margin-left: 85px;
+  padding-top: 5px;
 }
 ul, li {
   list-style-type: none;
@@ -46,11 +48,15 @@ a {
   text-align: center;
   padding-left:25px;
 }
-p {
+.buttom {
   font-size:18px;
-  font-family: "Verdana";
+  font-family: "segoe ui";
   text-align: justify;
-  margin: 20px;
+  margin: 50px;
+  margin-top: 20px;
+  color: white;
+  padding-right: 10px;
+
 }
 .bmw {
 width: 50px;
@@ -91,5 +97,31 @@ html {
 nav {
   background-color:#212529;
 }
+.row {
+  --bs-gutter-x: 0rem;
+}
 
-
+.col-sm-4 {
+  padding-left: 1%;
+  padding-top: 10px;
+}
+.button {
+  margin-left: 43%;
+  padding-bottom: 18px;
+  
+}
+.podval {
+  display: block;
+  background-color: #212529;
+  height: 100%;
+  float: left;
+}
+.buttom2 {
+    font-size:18px;
+  font-family: "segoe ui";
+  text-align: justify;
+  margin-top: 20px;
+  margin-left: 50px;
+  color: white;
+  padding-right: 10px;
+}
