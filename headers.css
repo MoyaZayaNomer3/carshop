@@ -1,0 +1,95 @@
+.container255 {
+  margin:0 auto;
+  width: 100%; 
+}
+.page-navigation255 {
+  background-color:#212529;
+  height: 65px;
+  width: 100%;
+  margin-top: 0px; 
+}
+.page-navigation255 li {
+  float: left;
+  width: 150px;
+  margin-left: 85px;
+      background-color: #212529;
+      margin-top: 2px;
+}
+.page-navigation255 a {
+  display: block;
+  color: #FFFFFF;
+  margin-top: 3px;
+  text-align: center;
+  font-family: "segoe ui";
+}
+.page-navigation255 li a:hover {
+  background-color:#bcbcbc;
+  border-radius:5px;
+  height: 55px;
+}
+.model21{
+  font-weight: bold;
+  font-family: "segoe ui";
+  margin-left: 85px;
+}
+ul, li {
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
+}
+.h3 {
+  font-family: "Arial";
+  font-size: 28px;
+  font-weight: 500px;
+  margin: 5px;
+  text-align: center;
+  padding-left:25px;
+}
+p {
+  font-size:18px;
+  font-family: "Verdana";
+  text-align: justify;
+  margin: 20px;
+}
+.bmw {
+width: 50px;
+margin-top: 3px;
+margin-bottom: 3px;  
+}
+.porshe {
+ width: 37px;
+ margin-top: 3px; 
+ margin-bottom: 3px; 
+}
+.mers {
+ width: 65px;
+ margin-top: 3px;
+ margin-bottom: 3px;  
+}
+.menu {
+    margin-left: 25%;
+
+}
+body {
+  background-color:white;
+}
+.card {
+  float: left;
+} 
+.card-img-top {
+  width: 100%;
+}
+.activebutton {
+  background-color: #5e5e5e;
+  width: 100%;
+  border-radius:5px;
+}
+html {
+  margin: 0px;
+}
+nav {
+  background-color:#212529;
+}
+
+
