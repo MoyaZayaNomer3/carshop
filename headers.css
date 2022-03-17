@@ -4,15 +4,15 @@
 }
 .page-navigation255 {
   background-color:#212529;
-  height: 65px;
-  width: 100%;
+  height: 100%;
+  width: 95%;
   margin-top: 0px;
   box-sizing: border-box; 
 }
 .page-navigation255 li {
   float: left;
   width: 150px;
-  margin-left: 110px;
+  margin-left: 9%;
       background-color: #212529;
       margin-top: 2px;
 }
@@ -125,3 +125,57 @@ nav {
   color: white;
   padding-right: 10px;
 }
+.languageuaru {
+  width: 20px;
+}
+.page-navigation252 {
+  float: right;
+  width: 20px;
+padding-bottom:10px;
+padding-left:50px;
+}
+.activebutton2 {
+  background-color: #5e5e5e;
+  width: 100%;
+  border-radius:5px;
+  padding-top: 10px;
+}
+.card {
+  float: left;
+    margin-left: 4%;
+    margin-bottom: 1%;
+    margin-top: 1%;
+}
+.haract {
+  text-align: center;
+  color: #6e6e6e;
+  font-family: "segoe ui";
+  font-weight: normal;
+}
+.card-body {
+  font-weight: bold;
+  text-align: center;
+}
+.model22{
+  font-weight: bold;
+  font-family: "segoe ui";
+ 
+  padding-top: 5px;
+  text-align: center;
+}
+.money {
+    text-align: center;
+  color: #1b9f62;
+  font-family: "segoe ui";
+  font-weight: normal;
+}
+.button {
+  margin-left: 47%;
+  padding-bottom: 18px;
+}
+.name{
+  font-weight: bold;
+  font-family: "segoe ui";
+     font-size:60px;
+  padding:15px;
+  text-align: center;
