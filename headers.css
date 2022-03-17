@@ -179,3 +179,25 @@ padding-left:50px;
      font-size:60px;
   padding:15px;
   text-align: center;
+}
+h2 {
+  text-align: center;
+  margin-top: 10%;
+  margin-bottom: 3%;
+}
+
+.errorbuy {
+  background-color: #d7d7d7;
+}
+
+.butt {
+  text-align: center;
+
+}
+.money {
+width: auto;
+
+}
+.centerimg {
+  text-align: center;
+}
