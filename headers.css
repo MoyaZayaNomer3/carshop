@@ -6,8 +6,8 @@
   background-color:#212529;
   height: 100%;
   width: 95%;
+  box-sizing: border-box;
   margin-top: 0px;
-  box-sizing: border-box; 
 }
 .page-navigation255 li {
   float: left;
